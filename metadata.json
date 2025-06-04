@@ -1,0 +1,6 @@
+{
+  "name": "RiskAIssessment - AI Powered Safety Risk Assessment",
+  "description": "An intelligent application leveraging Gemini API to analyze images for potential workplace safety risks, provide detailed assessments, and maintain a history of evaluations. Features include image upload, AI-driven risk detection and segmentation, detailed risk analysis (severity, likelihood, mitigation), and PDF report generation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
